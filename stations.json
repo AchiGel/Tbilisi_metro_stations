@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Akhmeteli Theatre",
+    "line": "first",
+    "id": 1
+  },
+  {
+    "name": "Sarajishvili",
+    "line": "first",
+    "id": 2
+  },
+  {
+    "name": "Guramishvili",
+    "line": "first",
+    "id": 3
+  },
+  {
+    "name": "Ghrmaghele",
+    "line": "first",
+    "id": 4
+  },
+  {
+    "name": "Didube",
+    "line": "first",
+    "id": 5
+  },
+  {
+    "name": "Gotsiridze",
+    "line": "first",
+    "id": 6
+  },
+  {
+    "name": "Nadzaladevi",
+    "line": "first",
+    "id": 7
+  },
+  {
+    "name": "Station Square",
+    "line": "first",
+    "id": 8
+  },
+  {
+    "name": "Tsereteli",
+    "line": "second",
+    "id": 17
+  },
+  {
+    "name": "Technical University",
+    "line": "second",
+    "id": 18
+  },
+  {
+    "name": "Medical University",
+    "line": "second",
+    "id": 19
+  },
+  {
+    "name": "Delisi",
+    "line": "second",
+    "id": 20
+  },
+  {
+    "name": "Vazha-phshavela",
+    "line": "second",
+    "id": 21
+  },
+  {
+    "name": "State University",
+    "line": "second",
+    "id": 22
+  },
+  {
+    "name": "Marjanishvili",
+    "line": "first",
+    "id": 9
+  },
+  {
+    "name": "Rustaveli",
+    "line": "first",
+    "id": 10
+  },
+  {
+    "name": "Liberty Square",
+    "line": "first",
+    "id": 11
+  },
+  {
+    "name": "Avlabari",
+    "line": "first",
+    "id": 12
+  },
+  {
+    "name": "300 Aragveli",
+    "line": "first",
+    "id": 13
+  },
+  {
+    "name": "Isani",
+    "line": "first",
+    "id": 14
+  },
+  {
+    "name": "Samgori",
+    "line": "first",
+    "id": 15
+  },
+  {
+    "name": "Varketili",
+    "line": "first",
+    "id": 16
+  }
+]
