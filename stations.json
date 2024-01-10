@@ -51,32 +51,38 @@
     {
       "name": "Tsereteli",
       "line": "Saburtalo Line",
-      "id": 17
+      "id": 17,
+      "img": "https://i.postimg.cc/hv8XkV39/image.jpg"
     },
     {
       "name": "Technical University",
       "line": "Saburtalo Line",
-      "id": 18
+      "id": 18,
+      "img": "https://i.postimg.cc/bNzrGDBB/technical.jpg"
     },
     {
       "name": "Medical University",
       "line": "Saburtalo Line",
-      "id": 19
+      "id": 19,
+      "img": "https://i.postimg.cc/KzSvmRTQ/image.jpg"
     },
     {
       "name": "Delisi",
       "line": "Saburtalo Line",
-      "id": 20
+      "id": 20,
+      "img": "https://i.postimg.cc/7Z5x7gMm/Delisi-Metro-Entrance.jpg"
     },
     {
       "name": "Vazha-phshavela",
       "line": "Saburtalo Line",
-      "id": 21
+      "id": 21,
+      "img": "https://i.postimg.cc/nrdJ9zXy/vaja-fshavel.png"
     },
     {
       "name": "State University",
       "line": "Saburtalo Line",
-      "id": 22
+      "id": 22,
+      "img": "https://i.postimg.cc/tTk08TNs/Tbilisi-Metro-Station-State-University-2.jpg"
     },
     {
       "name": "Marjanishvili",

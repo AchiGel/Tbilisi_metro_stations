@@ -42,7 +42,8 @@ body {
 }
 
 .stations-list li {
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: 600;
   padding: 10px 20px;
   background-color: wheat;
   border-radius: 10px;
@@ -52,4 +53,21 @@ body {
 
 .hl {
   background-color: #e66465;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.line {
+  color: rgb(134, 2, 2);
+}
+
+.option-text {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }

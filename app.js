@@ -6,12 +6,17 @@ const api =
   "https://raw.githubusercontent.com/AchiGel/Tbilisi_metro_stations/main/stations.json";
 
 async function getStations() {
-  const response = await fetch(api);
-  const data = await response.json();
+  try {
+    const response = await fetch(api);
+    const dataObj = await response.json();
+    const data = await dataObj.stations;
 
-  data.forEach((element) => {
-    stations.push(element);
-  });
+    data.forEach((element) => {
+      stations.push(element);
+    });
+  } catch (error) {
+    console.log(error.message);
+  }
 }
 
 getStations();
@@ -33,7 +38,7 @@ function displayOptions() {
         regex,
         `<span class="hl">${this.value}</span>`
       );
-      return `<li><span>${stationName}</span></li>`;
+      return `<li class="option"><div class="option-text"><span>${stationName}</span> <span class="line">${station.line}</span> </div> <img src="${station.img} alt="${station.name}"/></li>`;
     })
     .slice(0, 5)
     .join(" ");
