@@ -1,112 +1,130 @@
-[
-  {
-    "name": "Akhmeteli Theatre",
-    "line": "first",
-    "id": 1
-  },
-  {
-    "name": "Sarajishvili",
-    "line": "first",
-    "id": 2
-  },
-  {
-    "name": "Guramishvili",
-    "line": "first",
-    "id": 3
-  },
-  {
-    "name": "Ghrmaghele",
-    "line": "first",
-    "id": 4
-  },
-  {
-    "name": "Didube",
-    "line": "first",
-    "id": 5
-  },
-  {
-    "name": "Gotsiridze",
-    "line": "first",
-    "id": 6
-  },
-  {
-    "name": "Nadzaladevi",
-    "line": "first",
-    "id": 7
-  },
-  {
-    "name": "Station Square",
-    "line": "first",
-    "id": 8
-  },
-  {
-    "name": "Tsereteli",
-    "line": "second",
-    "id": 17
-  },
-  {
-    "name": "Technical University",
-    "line": "second",
-    "id": 18
-  },
-  {
-    "name": "Medical University",
-    "line": "second",
-    "id": 19
-  },
-  {
-    "name": "Delisi",
-    "line": "second",
-    "id": 20
-  },
-  {
-    "name": "Vazha-phshavela",
-    "line": "second",
-    "id": 21
-  },
-  {
-    "name": "State University",
-    "line": "second",
-    "id": 22
-  },
-  {
-    "name": "Marjanishvili",
-    "line": "first",
-    "id": 9
-  },
-  {
-    "name": "Rustaveli",
-    "line": "first",
-    "id": 10
-  },
-  {
-    "name": "Liberty Square",
-    "line": "first",
-    "id": 11
-  },
-  {
-    "name": "Avlabari",
-    "line": "first",
-    "id": 12
-  },
-  {
-    "name": "300 Aragveli",
-    "line": "first",
-    "id": 13
-  },
-  {
-    "name": "Isani",
-    "line": "first",
-    "id": 14
-  },
-  {
-    "name": "Samgori",
-    "line": "first",
-    "id": 15
-  },
-  {
-    "name": "Varketili",
-    "line": "first",
-    "id": 16
-  }
-]
+{
+  "stations": [
+    {
+      "name": "Akhmeteli Theatre",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 1,
+      "img": "https://i.postimg.cc/ZKdDcbVS/akhmetelis-metro-w-h.jpg"
+    },
+    {
+      "name": "Sarajishvili",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 2,
+      "img": "https://i.postimg.cc/fL11zJB8/Sarajishvili-entr.jpg"
+    },
+    {
+      "name": "Guramishvili",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 3,
+      "img": "https://i.postimg.cc/59vR59PM/gurami-Shvili.jpg"
+    },
+    {
+      "name": "Ghrmaghele",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 4,
+      "img": "https://i.postimg.cc/fTDBxctx/Ghrmaghele-Metro-Station-Tbilisi-Metro-Tbilisi-Georgia.jpg"
+    },
+    {
+      "name": "Didube",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 5,
+      "img": "https://i.postimg.cc/xjkHZghv/didube.jpg"
+    },
+    {
+      "name": "Gotsiridze",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 6,
+      "img": "https://i.postimg.cc/MK9SjbZL/metrogotsiridze3.jpg"
+    },
+    {
+      "name": "Nadzaladevi",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 7,
+      "img": "https://i.postimg.cc/PqxNw5kW/Tbilisi-Metro-Nadzaladevi.jpg"
+    },
+    {
+      "name": "Station Square",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 8,
+      "img": "https://i.postimg.cc/3wpV9g7Y/Station-Square-Tbilisi-Metro.jpg"
+    },
+    {
+      "name": "Tsereteli",
+      "line": "Saburtalo Line",
+      "id": 17
+    },
+    {
+      "name": "Technical University",
+      "line": "Saburtalo Line",
+      "id": 18
+    },
+    {
+      "name": "Medical University",
+      "line": "Saburtalo Line",
+      "id": 19
+    },
+    {
+      "name": "Delisi",
+      "line": "Saburtalo Line",
+      "id": 20
+    },
+    {
+      "name": "Vazha-phshavela",
+      "line": "Saburtalo Line",
+      "id": 21
+    },
+    {
+      "name": "State University",
+      "line": "Saburtalo Line",
+      "id": 22
+    },
+    {
+      "name": "Marjanishvili",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 9,
+      "img": "https://i.postimg.cc/J4GTPbcv/Marjanishvili-Square.jpg"
+    },
+    {
+      "name": "Rustaveli",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 10,
+      "img": "https://i.postimg.cc/6qThbXRn/Emily-Lush-Tbilisi-Georgia-guide-Rustaveli-metro-station.jpg"
+    },
+    {
+      "name": "Liberty Square",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 11,
+      "img": "https://i.postimg.cc/VsT9s2nZ/Liberty-Square-Metro-Station.jpg"
+    },
+    {
+      "name": "Avlabari",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 12,
+      "img": "https://i.postimg.cc/qBtbGsGY/avlabari.jpg"
+    },
+    {
+      "name": "300 Aragveli",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 13,
+      "img": "https://i.postimg.cc/Zn0XZ68B/300-aragveli.jpg"
+    },
+    {
+      "name": "Isani",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 14,
+      "img": "https://i.postimg.cc/Znr6M5n9/Isani-Metro-Station-Tbilisi-Georgia-2.jpg"
+    },
+    {
+      "name": "Samgori",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 15,
+      "img": "https://i.postimg.cc/MZyRxXZH/samgori.jpg"
+    },
+    {
+      "name": "Varketili",
+      "line": "Akhmeteli-Varketili Line",
+      "id": 16,
+      "img": "https://i.postimg.cc/pdpG1KHp/varketili.jpg"
+    }
+  ]
+}
