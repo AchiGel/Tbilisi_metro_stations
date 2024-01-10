@@ -71,3 +71,13 @@ body {
   flex-direction: column;
   gap: 15px;
 }
+
+@media (max-width: 500px) {
+  .option {
+    flex-direction: column;
+  }
+
+  .option-text {
+    align-items: center;
+  }
+}
