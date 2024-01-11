@@ -38,12 +38,28 @@ function displayOptions() {
         regex,
         `<span class="hl">${this.value}</span>`
       );
-      return `<li class="option"><div class="option-text"><span>${stationName}</span> <span class="line">${station.line}</span> </div> <img src="${station.img} alt="${station.name}"/></li>`;
+      return `<li class="option">
+                  <div class="option-text">
+                      <span>${stationName}</span> 
+                      <span class="line">${station.line}</span> 
+                  </div> 
+                  <img class="station-image" src="${station.img} alt="${station.name}"/>
+              </li>`;
     })
     .slice(0, 5)
     .join(" ");
 
-  stationsList.innerHTML = this.value ? html : null;
+  const noStation = `<li>No station found! 🙄</li>`;
+
+  if (this.value) {
+    stationsList.innerHTML = html;
+  } else {
+    stationsList.innerHTML = null;
+  }
+
+  if (options.length === 0) {
+    stationsList.innerHTML = noStation;
+  }
 }
 
 searchBar.addEventListener("change", displayOptions);
